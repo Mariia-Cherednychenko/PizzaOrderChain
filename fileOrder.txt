@@ -1,0 +1,4 @@
+{VEGITARIAN=1}
+{VEGITARIAN=1}
+Ваш заказ: пицца {VEGITARIAN=1}
+пицца {VEGITARIAN=1}
